@@ -62,31 +62,31 @@ session_start();
         <div class="row">
             <div class="col-sm-4 mb-3">
                 <div class="card">
-                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="Imagen 1">
+                    <img src="IMG/reyes_magos.jpg" class="card-img-top" alt="Imagen 1">
                     <div class="card-body">
-                        <h5 class="card-title">Card title 1</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-danger">Go somewhere</a>
+                        <h5 class="card-title">Reyes Magos</h5>
+                        <p class="card-text">¿Quiénes son los reyes magos?</p>
+                        <a href="#" class="btn btn-danger">Info</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-4 mb-3">
                 <div class="card">
-                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="Imagen 2">
+                    <img src="IMG/papa_noel.jpg" class="card-img-top" alt="Imagen 2">
                     <div class="card-body">
-                        <h5 class="card-title">Card title 2</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-danger">Go somewhere</a>
+                        <h5 class="card-title">Papa Noel</h5>
+                        <p class="card-text">¿Quién es papa noel?</p>
+                        <a href="#" class="btn btn-danger">Info</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-4 mb-3">
                 <div class="card">
-                    <img src="https://via.placeholder.com/150" class="card-img-top" alt="Imagen 3">
+                    <img src="IMG/grinch.jpg" class="card-img-top" alt="Imagen 3">
                     <div class="card-body">
-                        <h5 class="card-title">Card title 3</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-danger">Go somewhere</a>
+                        <h5 class="card-title">Grinch</h5>
+                        <p class="card-text">¿Quién es el grinch?</p>
+                        <a href="#" class="btn btn-danger">Info</a>
                     </div>
                 </div>
             </div>
