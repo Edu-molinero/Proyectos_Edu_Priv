@@ -58,74 +58,16 @@ session_start();
     </div>
 
     <!-- Cards -->
-    <div class="container mt-3">
-        <div class="row">
             <div class="col-sm-4 mb-3">
                 <div class="card">
-                    <img src="../../IMG/alemania_bandera.jpg" class="card-img-top" alt="Bandera Alemania">
-                    <div class="card-body">
-                        <h5 class="card-title">Alemania</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="Pais/alemania.php" class="btn btn-danger">Receta Alemania</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 mb-3">
-                <div class="card">
-                    <img src="../../IMG/españa_bandera.jpg" class="card-img-top" alt="Bandera España">
+                    <img src="../../../IMG/españa_bandera.jpg" class="card-img-top" alt="Bandera España">
                     <div class="card-body">
                         <h5 class="card-title">España</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="Pais/espana.php" class="btn btn-danger">Receta España</a>
+                        <a href="#" class="btn btn-danger">Receta España</a>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4 mb-3">
-                <div class="card">
-                    <img src="../../IMG/portugal_bandera.jpg" class="card-img-top" alt="Bandera Portugal">
-                    <div class="card-body">
-                        <h5 class="card-title">Portugal</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="Pais/portugal.php" class="btn btn-danger">Receta Portugal</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container mt-3">
-        <div class="row">
-            <div class="col-sm-4 mb-3">
-                <div class="card">
-                    <img src="../../IMG/rusia_bandera.jpg" class="card-img-top" alt="Bandera Rusia">
-                    <div class="card-body">
-                        <h5 class="card-title">Rusia</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="Pais/rusia.php" class="btn btn-danger">Receta Rusia</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 mb-3">
-                <div class="card">
-                    <img src="../../IMG/suecia_bandera.png" class="card-img-top" alt="Bandera Suecia">
-                    <div class="card-body">
-                        <h5 class="card-title">Suecia</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="Pais/suecia.php" class="btn btn-danger">Receta Suecia</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 mb-3">
-                <div class="card">
-                    <img src="../../IMG/francia_bandera.jpg" class="card-img-top" alt="Bandera Francia">
-                    <div class="card-body">
-                        <h5 class="card-title">Francia</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="Pais/francia.php" class="btn btn-danger">Receta Francia</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
