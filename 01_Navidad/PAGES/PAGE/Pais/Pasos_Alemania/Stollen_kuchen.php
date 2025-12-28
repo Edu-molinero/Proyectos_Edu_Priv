@@ -67,7 +67,7 @@ session_start();
                     <img src="../../../../IMG/stollen_kuchen.jpg" class="card-img-top" alt="Receta1">
                     <div class="card-body">
                         <!-- Ingredientes -->
-                        <h5>Ingredientes </h5>
+                        <h5>Ingredientes: </h5>
                         <p><b>-</b> 430 gr. De harina</p>
                         <p><b>-</b> 100-150 gr. De azúcar</p>
                         <p><b>-</b> 200 gr. De queso crema</p>

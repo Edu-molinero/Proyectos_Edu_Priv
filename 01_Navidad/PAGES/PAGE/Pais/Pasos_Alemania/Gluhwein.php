@@ -59,12 +59,13 @@ session_start();
     <!-- Cards -->
     <div class="container mt-3">
         <div class="row">
-            <div class="col-sm-4 mb-3">
+            <div class="col-sm-8 mb-3">
                 <div class="card">
                     <img src="../../../../IMG/gluhwein.jpg" class="card-img-top" alt="Receta2">
                     <div class="card-body">
-                        <h5 class="card-title">Glühwein</h5>
-                        <p class="card-text">Esto es un vino caliente navideño, ahora seguiremos con sus pasos de elaboración</p>
+                        <!-- Ingredientes -->
+                        <h5 class="card-title">Ingredientes:</h5>
+                        <!-- Preparación -->
                         <a href="#" class="btn btn-danger">Pasos</a>
                     </div>
                 </div>
