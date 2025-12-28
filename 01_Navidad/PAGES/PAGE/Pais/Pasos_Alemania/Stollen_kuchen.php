@@ -50,7 +50,7 @@ session_start();
     <div class="container mt-3">
         <div class="jumbotron">
             <h1 class="display-4">Stollen Kuchen</h1>
-            <p class="lead">Esto es una pan dulce navideño.</p>
+            <p class="lead">El Stollen es un tradicional pan dulce navideño originario de Alemania.</p>
             <hr class="my-4">
             <p>Ahora te mostraremos los pasos para prepararlo.</p>
         </div>

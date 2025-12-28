@@ -75,7 +75,7 @@ session_start();
                     <div class="card-body">
                         <h5 class="card-title">Glühwein</h5>
                         <p class="card-text">Esto es un vino caliente navideño, ahora seguiremos con sus pasos de elaboración</p>
-                        <a href="#" class="btn btn-danger">Pasos</a>
+                        <a href="Pasos_Alemania/Gluhwein.php" class="btn btn-danger">Pasos</a>
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@ session_start();
                     <div class="card-body">
                         <h5 class="card-title">Vanillekipferl</h5>
                         <p class="card-text">Esto son galletas navideñas, ahora seguiremos con sus pasos de elaboración</p>
-                        <a href="#" class="btn btn-danger">Pasos</a>
+                        <a href="Pasos_Alemania/Vanillekipferl.php" class="btn btn-danger">Pasos</a>
                     </div>
                 </div>
             </div>

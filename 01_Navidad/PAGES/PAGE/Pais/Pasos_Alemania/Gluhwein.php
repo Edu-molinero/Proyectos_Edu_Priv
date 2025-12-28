@@ -49,10 +49,10 @@ session_start();
     <!-- Contenido de la página -->
     <div class="container mt-3">
         <div class="jumbotron">
-            <h1 class="display-4">Alemania</h1>
-            <p class="lead">Aquí te mostraremos las 3 mejores recetas navideñas de Alemania.</p>
+            <h1 class="display-4">Glühwein</h1>
+            <p class="lead">Es un vino caliente o vino especiado y es una preparación alcohólica que se compone principalmente de vino, azúcar, naranja y especias.</p>
             <hr class="my-4">
-            <p>Estas son nuestras famosas recetas navideñas.</p>
+            <p>Ahora te mostraremos los pasos para prepararlo.</p>
         </div>
     </div>
 
@@ -61,30 +61,10 @@ session_start();
         <div class="row">
             <div class="col-sm-4 mb-3">
                 <div class="card">
-                    <img src="../../../IMG/stollen_kuchen.jpg" class="card-img-top" alt="Receta1">
-                    <div class="card-body">
-                        <h5 class="card-title">Stollen kuchen</h5>
-                        <p class="card-text">Esto es un pan dulce navideño, ahora seguiremos con sus pasos de elaboración</p>
-                        <a href="#" class="btn btn-danger">Pasos</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 mb-3">
-                <div class="card">
-                    <img src="../../../IMG/gluhwein.jpg" class="card-img-top" alt="Receta2">
+                    <img src="../../../../IMG/gluhwein.jpg" class="card-img-top" alt="Receta2">
                     <div class="card-body">
                         <h5 class="card-title">Glühwein</h5>
                         <p class="card-text">Esto es un vino caliente navideño, ahora seguiremos con sus pasos de elaboración</p>
-                        <a href="#" class="btn btn-danger">Pasos</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 mb-3">
-                <div class="card">
-                    <img src="../../../IMG/vanillekipferl.jpg" class="card-img-top" alt="Receta3">
-                    <div class="card-body">
-                        <h5 class="card-title">Vanillekipferl</h5>
-                        <p class="card-text">Esto son galletas navideñas, ahora seguiremos con sus pasos de elaboración</p>
                         <a href="#" class="btn btn-danger">Pasos</a>
                     </div>
                 </div>
